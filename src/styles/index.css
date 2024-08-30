@@ -20,3 +20,14 @@ a {
 	text-decoration: none;
 	color: inherit;
 }
+
+body {
+	font-family: 'Lexend Deca', sans-serif;
+	font-size: 0.9375rem;
+}
+
+h1,
+h2,
+h3 {
+	font-family: 'Big Shoulders Display', sans-serif;
+}

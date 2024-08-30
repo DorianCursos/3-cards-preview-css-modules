@@ -1,0 +1,83 @@
+.card {
+	display: flex;
+	flex-direction: column;
+	height: 27.625rem;
+	padding: 3rem;
+	color: var(--text-color);
+}
+
+.card-orange {
+	background-color: var(--orange);
+}
+
+.card-blue {
+	background-color: var(--blue);
+}
+
+.card-green {
+	background-color: var(--green);
+}
+
+.card-orange .card-button {
+	color: var(--orange);
+}
+
+.card-blue .card-button {
+	color: var(--blue);
+}
+
+.card-green .card-button {
+	color: var(--green);
+}
+
+.card-first {
+	border-radius: 0.5rem 0.5rem 0 0;
+}
+
+.card-last {
+	border-radius: 0 0 0.5rem 0.5rem;
+}
+
+@media screen and (width>768px) {
+	.card-first {
+		border-radius: 0.5rem 0 0 0.5rem;
+	}
+
+	.card-last {
+		border-radius: 0 0.5rem 0.5rem 0;
+	}
+}
+
+.card-icon {
+	width: 4rem;
+	margin-bottom: 2.1875rem;
+}
+
+.card-title {
+	margin-block: 0 1.5625rem;
+	font-size: 2.5rem;
+}
+
+.card-text {
+	margin-block: 0;
+	line-height: 1.5625rem;
+	opacity: 0.75;
+}
+
+.card-button {
+	margin-top: auto;
+	width: 9.125rem;
+	border: none;
+	border-radius: 1.5625rem;
+	line-height: 3rem;
+	background-color: #fff;
+	cursor: pointer;
+}
+
+@media (hover: hover) {
+	.card-button:hover {
+		background-color: transparent;
+		outline: 2px solid white;
+		color: white;
+	}
+}
