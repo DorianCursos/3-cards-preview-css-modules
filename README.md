@@ -1,4 +1,5 @@
 # Título del proyecto
+# Hi, I'm Katherine! 👋
 
 <p>
     <img src="https://raw.githubusercontent.com/DorianCursos/3-cards-preview-css-modules/main/design/desktop-preview.jpg" alt="Imagen del proyecto">
