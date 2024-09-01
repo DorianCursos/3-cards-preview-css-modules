@@ -36,9 +36,9 @@ Lorem ipsum dolor, sit amet consectetur adipisicing elit. A voluptatum et esse, 
 ## Capturas del proyecto
 
 <p>
-   <img src="https://www.eclosio.ong/wp-content/uploads/2018/08/default.png" alt="Captura del proyecto">
-   <img src="https://www.eclosio.ong/wp-content/uploads/2018/08/default.png" alt="Captura del proyecto">
-   <img src="https://www.eclosio.ong/wp-content/uploads/2018/08/default.png" alt="Captura del proyecto">
+   <img src="https://raw.githubusercontent.com/DorianCursos/3-cards-preview-css-modules/main/design/desktop-design.jpg" alt="Captura del proyecto">
+   <img src="https://raw.githubusercontent.com/DorianCursos/3-cards-preview-css-modules/main/design/active-states.jpg" alt="Captura del proyecto">
+   <img src="https://raw.githubusercontent.com/DorianCursos/3-cards-preview-css-modules/main/design/mobile-design.jpg" alt="Captura del proyecto">
 </p>
 
 ## Autor ✒️
