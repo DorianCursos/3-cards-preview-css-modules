@@ -1,7 +1,7 @@
 # Título del proyecto
 
 <p>
-    <img src="https://www.eclosio.ong/wp-content/uploads/2018/08/default.png" alt="Imagen del proyecto">
+    <img src="https://raw.githubusercontent.com/DorianCursos/3-cards-preview-css-modules/main/design/desktop-preview.jpg" alt="Imagen del proyecto">
 </p>
 
 ## Vista en vivo
