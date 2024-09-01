@@ -1,4 +1,4 @@
-# Título del proyecto
+<h1 style="background-color:red">3 Cards Preview</h1>
 
 <p>
     <img src="https://raw.githubusercontent.com/DorianCursos/3-cards-preview-css-modules/main/design/desktop-preview.jpg" alt="Imagen del proyecto">
