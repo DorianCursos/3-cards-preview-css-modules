@@ -35,7 +35,7 @@ Lorem ipsum dolor, sit amet consectetur adipisicing elit. A voluptatum et esse, 
 
 ## Capturas del proyecto
 
-<div style="display:flex">
+<div style="display:flex; background:red">
    <img src="https://raw.githubusercontent.com/DorianCursos/3-cards-preview-css-modules/main/design/desktop-design.jpg" alt="Captura del proyecto">
    <img src="https://raw.githubusercontent.com/DorianCursos/3-cards-preview-css-modules/main/design/active-states.jpg" alt="Captura del proyecto">
    <img width="200" src="https://raw.githubusercontent.com/DorianCursos/3-cards-preview-css-modules/main/design/mobile-design.jpg" alt="Captura del proyecto">
